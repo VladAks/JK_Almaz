@@ -1,0 +1,4 @@
+/*.glb
+  Cache-Control: public, max-age=2592000
+/*.hdr
+  Cache-Control: public, max-age=2592000
